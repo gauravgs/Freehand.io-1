@@ -30,6 +30,7 @@
 -    Give us Simple Hand Drawn sketch of how Website should look and we will give you its code .:smiley:
 -    So get up and draw your website , we got you covered .
 - This repo contains code for our [Website](https://freehand.ml/) 
+- Previous Commits are present in this [Repo](https://github.com/nikhildsahu/Freehand.io)
 
 ## Features
  - Currently we can detect and code 4 components.
